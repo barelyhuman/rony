@@ -1,29 +1,31 @@
 # Setup
 
-  - Install [GitScaff](https://github.com/barelyhuman/gitscaff) on your local machine, then run the following commands to generate a local copy of this repo
-    ``` 
-      gitscaff barelyhuman/rony <project-folder-name>
-    ```
+Install [GitScaff](https://github.com/barelyhuman/gitscaff) on your local machine, then run the following commands to generate a local copy of this repo
 
-    ```
-      cd <project-folder-name>
-      npm i
-    ```
+```bash
+gitscaff barelyhuman/rony <project-folder-name>
+```
 
-  - To Run in Dev Mode
-    ```
-      npm run dev
+```bash
+cd <project-folder-name>
+```
 
-      // or
+```bash
+npm i 
+#or
+yarn install
+```
 
-      yarn dev
-    ``` 
+To Run in Dev Mode
+```bash
+npm run dev
+#or
+yarn dev
+``` 
 
-  - To Run in Prod Mode
-    ```
-      npm run start 
-
-      // or
-
-      yarn start
-    ``` 
+To Run in Prod Mode
+```bash
+npm run start 
+#or
+yarn start
+``` 
