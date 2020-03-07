@@ -3,7 +3,7 @@
 Install [GitScaff](https://github.com/barelyhuman/gitscaff) on your local machine, then run the following commands to generate a local copy of this repo
 
 ```bash
-gitscaff barelyhuman/rony <project-folder-name>
+gitscaff github:barelyhuman/rony <project-folder-name>
 ```
 
 ```bash
