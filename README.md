@@ -16,14 +16,14 @@ npm i
 yarn install
 ```
 
-To Run in Dev Mode
+### Dev Mode
 ```bash
 npm run dev
 #or
 yarn dev
 ``` 
 
-To Run in Prod Mode
+### Prod Mode
 ```bash
 npm run start 
 #or
