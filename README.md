@@ -1,6 +1,6 @@
 # Setup
 
-  - Install [GitScaff](https://github.com/barelyhuman/gitscaff) on your local machine.
+  - Install [GitScaff](https://github.com/barelyhuman/gitscaff) on your local machine, then run the following commands to generate a local copy of this repo
     ``` 
       gitscaff barelyhuman/rony <project-folder-name>
     ```
